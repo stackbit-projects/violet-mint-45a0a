@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Stay home be a hero.
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: '### Just a hero'
     image: images/avatar.png
   - title: Text
     section_id: intro
